@@ -1,4 +1,4 @@
-# Parcial Unidad 2 - Despliegue de Modelo con Gradio
+# Parcial Unidad 2 
 
 **Nombre:** Daniel Quintero  
 **Curso:** Inteligencia Artificial  
